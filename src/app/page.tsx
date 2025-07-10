@@ -21,7 +21,7 @@ export default function Home() {
 
         <div className="flex flex-col sm:flex-row justify-center gap-4 pt-4">
           <a
-            href="https://github.com/irhamdev"
+            href="https://github.com/starfollowme"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center rounded-full bg-black text-white dark:bg-white dark:text-black hover:opacity-80 transition px-6 py-3 text-sm font-medium"
